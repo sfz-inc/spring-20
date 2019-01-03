@@ -1,3 +1,4 @@
+/* stuff */
 package asd;
 
 import org.springframework.web.bind.annotation.PathVariable;
